@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Quantos triângulos formam o símbolo da marca Sicoob Credip?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "3"
+  },
+  {
+    "question": "Quais são as cores principais da identidade visual da Sicoob Credip?",
+    "options": ["Turquesa e Branco", "Verde e Amarelo", "Verde e Turquesa", "Verde e Laranja"],
+    "answer": "Verde e Turquesa"
+  },
+  {
+    "question": "Qual é uma das principais vantagens de participar de um consórcio da Sicoob Credip?",
+    "options": ["Juros altos", "Sorteios e lances para antecipar a compra", "Cartão de crédito incluso", "Sem necessidade de planejamento"],
+    "answer": "Sorteios e lances para antecipar a compra"
+  },
+  {
+    "question": "A previdência complementar da Sicoob Credip é ideal para:",
+    "options": ["Quem quer viajar agora", "Quem busca aposentadoria planejada e segura", "Quem não gosta de poupar", "Quem tem filhos pequenos"],
+    "answer": "Quem busca aposentadoria planejada e segura"
+  },
+  {
+    "question": "O consórcio da Sicoob Credip pode ser usado para comprar:",
+    "options": ["Apenas imóveis", "Apenas carros", "Imóveis, veículos e até serviços", "Apenas produtos eletrônicos"],
+    "answer": "Imóveis, veículos e até serviços"
+  },
+  {
+    "question": "Um dos princípios do cooperativismo é:",
+    "options": ["Lucro para poucos", "Competição entre membros", "Participação democrática", "Controle externo"],
+    "answer": "Participação democrática"
+  },
+  {
+    "question": "O que significa a sigla SICOOB?",
+    "options": ["Sistema Cooperativo de Bancos", "Sistema de Cooperativas de Crédito do Brasil", "Sindicato das Cooperativas do Brasil", "Sistema Integrado de Consórcios e Bancos"],
+    "answer": "Sistema de Cooperativas de Crédito do Brasil"
+  },
+  {
+    "question": "Qual é o objetivo de um plano de previdência complementar da Sicoob Credip?",
+    "options": ["Financiar viagens", "Garantir uma renda no futuro", "Comprar um carro", "Pagar dívidas"],
+    "answer": "Garantir uma renda no futuro"
+  },
+  {
+    "question": "No consórcio da Sicoob Credip, o que é um “lance”?",
+    "options": ["Um tipo de investimento de alto risco", "Um valor oferecido para tentar antecipar a contemplação", "Um sorteio aleatório", "Um tipo de taxa administrativa"],
+    "answer": "Um valor oferecido para tentar antecipar a contemplação"
+  },
+  {
+    "question": "Qual dessas é uma vantagem do cooperativismo financeiro?",
+    "options": ["Decisões tomadas por bancos internacionais", "Participação dos cooperados nas decisões", "Juros mais altos que o mercado", "Atendimento só virtual"],
+    "answer": "Participação dos cooperados nas decisões"
+  },
+  {
+    "question": "O símbolo da Sicoob Credip tem forma de:",
+    "options": ["Um quadrado", "Um triângulo", "Três triângulos unidos", "Uma estrela"],
+    "answer": "Três triângulos unidos"
+  },
+  {
+    "question": "Quem participa de uma cooperativa de crédito é chamado de:",
+    "options": ["Cliente", "Investidor", "Cooperado", "Acionista"],
+    "answer": "Cooperado"
+  },
+  {
+    "question": "Quantos Pontos de Atendimento a Sicoob Credip tem em Cacoal?",
+    "options": ["02", "03", "04", "05"],
+    "answer": "05"
+  },
+  {
+    "question": "A Sicoob Credip é uma:",
+    "options": ["Loja de roupas", "Cooperativa de crédito", "Companhia aérea", "Fábrica de celulares"],
+    "answer": "Cooperativa de crédito"
+  },
+  {
+    "question": "Qual desses você pode fazer na Sicoob Credip?",
+    "options": ["Comprar um carro por consórcio", "Jogar videogame online", "Alugar filmes", "Fazer passaporte"],
+    "answer": "Comprar um carro por consórcio"
+  }
+]

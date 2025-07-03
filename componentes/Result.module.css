@@ -1,0 +1,54 @@
+.container {
+  background-color: #003641;
+
+  background-size: 20px 20px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem 1rem;
+}
+.container h2{
+  margin-top: 50px;
+}
+.title {
+  font-size: 4.2rem;
+  color: white;
+  margin-bottom: 1.5rem;
+  text-shadow: 2px 2px #072b21;
+}
+
+.circleContainer {
+  margin-bottom: 1.5rem;
+}
+
+.text {
+  font-size: 2.5rem;
+  color: white;
+  margin: 1rem 0 2rem 0;
+}
+
+.button {
+  background: #00a091;
+  color: white;
+  padding: 2rem 5rem;
+  border-radius: 10px;
+  text-decoration: none;
+  transition: background 0.3s;
+  font-size: 2rem;
+  margin-top: 8px;
+  box-shadow: 2px 2px #00000075;
+}
+.button2 {
+  background: #008099;
+  color: white;
+  padding: 2rem 6.5rem;
+  border-radius: 10px;
+  text-decoration: none;
+  transition: background 0.3s;
+  font-size: 2rem;
+  margin-top: 8px;
+   box-shadow: 2px 2px #00000075;
+}
+
